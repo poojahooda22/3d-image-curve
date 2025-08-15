@@ -7,7 +7,6 @@ First, run the development server:
 npm run de
 # or
 yarn de
-
 bun
 ``
 Open [http://localhost:3000](http://localhost:3000) with your
