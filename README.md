@@ -8,7 +8,6 @@ npm run de
 # or
 yarn dev
 
-
 bun
 ``
 Open [http://localhost:3000](http://localhost:3000) with your
