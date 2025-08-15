@@ -6,7 +6,7 @@ First, run the development server:
 ```bash
 npm run de
 # or
-yarn de
+yarn d
 bun
 ``
 Open [http://localhost:3000](http://localhost:3000) with your
