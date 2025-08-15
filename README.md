@@ -9,7 +9,7 @@ npm run dev
 yarn dev
 # o
 pnpm de
-# 
+#
 bun 
 ``
 Open [http://localhost:3000](http://localhost:3000) with your 
