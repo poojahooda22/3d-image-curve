@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 First, run the development server
 ```
-yarn 
+yarn
 `
 Open [http://localhost:3000](http://localhost:3000) with your
 You can start editing the page by modifying `pages/index.js`. T
