@@ -6,7 +6,7 @@ First, run the development
 
 `
 Open [http://localhost:3000](http://localhost:3000) 
-You can start editing the page by modifying `pag
+You can start editing the page by modifying `pa
 [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can be accessed  [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be
 edited`pages/api/hello.js`.
 
