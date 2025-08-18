@@ -5,7 +5,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 First, run the development 
 `
 `
-Open [http://localhost:3000](http://localhost:3000) w
+Open [http://localhost:3000](http://localhost:3000) 
 You can start editing the page by modifying `pages/i
 [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
