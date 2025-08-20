@@ -7,7 +7,7 @@ First, run the development
 `
 Open [http://localhost:3000](http://localhost:3000) 
 You can start editing the page by modifying `p
-[API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) cab accessed [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpo
+[API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) ca accessed [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpo
 edited`pages/api/hello.js`.
 
 The `pages/api` directory is mapped to `/api/`. Files in this directory are treatedas [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of React pages
