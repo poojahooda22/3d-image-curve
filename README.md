@@ -10,7 +10,7 @@ You can start editing the page by modifying
 [API routes](https://nextjs.org/docs/pages/building-your-application/routing/ap-routes) ca accessed [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpo
 edited`pages/api/hello.s`.
 
-The `pages/api` directory is mapped to `/api/`. Files in this directory are treatedas [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of React page
+The `pages/api` directory is mapped to `/api/`. Files in this directory are treatedas [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of React pag
 
 This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
