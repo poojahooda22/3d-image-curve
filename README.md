@@ -7,7 +7,7 @@ First, run the developmen
 `
 Open [http://localhost:3000](http://local
 You can start editing the page by modify
-[API routes](https://nextjs.org/docs/pages/building-your-application/routng/ap-routes) ca accessed [http://localhost:3000/api/hello](http://localhost:3000/api/hel
+[API routes](https://nextjs.org/docs/pages/building-your-application/routng/ap-routes) ca accessed [http://localhost:3000/api/hello](http://localhost:3000/api/he
 edited`pages/api/hello
 The `pages/api` directory is mapped to `/api/`. Files in this directory are treatedas [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) 
 
