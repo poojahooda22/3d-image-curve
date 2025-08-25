@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-First, run the development
+First, run the developmen
 
 `
 Open [http://localhost:3000](http://localh
