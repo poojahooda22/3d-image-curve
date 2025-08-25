@@ -11,7 +11,7 @@ You can start editing the page by modify
 edited`pages/api/hello
 The `pages/api` directory is mapped to `/api/`. Files in this directory are treatedas [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) 
 
-This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new f
+This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new 
 
 ## 
 To learn more about Next.js, take a look at the follo
