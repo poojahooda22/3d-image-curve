@@ -5,7 +5,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 First, run the developme
 
 `
-Open [http://localhost:3000](http://loc
+Open [http://localhost:3000](http://
 You can start editing the page by modify
 [API routes](https://nextjs.org/docs/pages/building-your-application/routng/ap-routes) ca accessed [http://localhost:3000/api/hello](http://localost
 edited`pages/api/hello
