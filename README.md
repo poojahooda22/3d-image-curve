@@ -8,7 +8,7 @@ Open [http://localhost:3000](http://
 You can start editing the page by modif
 [API routes](https://nextjs.org/docs/pages/building-your-application/routng/ap-routes) access [http://localhost:3000/api/hello](http
 edited`pages/api/
-The `pages/api` directory is mapped to `/api/`. Files in this directory are treatedas [API routes](https://nextjs.org/docs/pages/building-your-application/routi
+The `pages/api` directory is mapped to `/api/`. Files in this directory are treatedas [API routes](https://nextjs.org/docs/pages/building-your-application/rout
 This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font)  
 
 ## 
