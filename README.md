@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 First, run the developme
 
-Open [http://localhost:3000](http:
+Open [http://localhost:3000](http
 
 You can start editing the page by
 
