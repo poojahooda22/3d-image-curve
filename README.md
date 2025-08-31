@@ -6,7 +6,7 @@ First, run the developme
 
 Open [http://localhost:3000](http:
 
-You can start editing the page by mo
+You can start editing the page by m
 
 [API routes](https://nextjs.org/docs/pages/building-your-application/routng/ap-routes) access [http://localhost:3000/
 edited`pages/api
