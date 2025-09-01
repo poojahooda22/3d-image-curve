@@ -10,7 +10,7 @@ You can start editing t
 
 [API routes](https://nextjs.org/docs/pages/building-your-application/routng/ap-routes) 
 edited`pages/a
-The `pages/api` directory is mapped to `/api/`. Files in this directory are treatedas [API routes](https://nextjs.org/doc
+The `pages/api` directory is mapped to `/api/`. Files in this directory are treatedas [API routes](https://nextjs.org/do
 This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://verc)
 
 ##
