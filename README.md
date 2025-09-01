@@ -6,7 +6,7 @@ First, run the developm
 
 Open [http://localhost:3000](htt
 
-You can start editing the page 
+You can start editing the page
 
 [API routes](https://nextjs.org/docs/pages/building-your-application/routng/ap-routes) [http://loca
 edited`pages/api
