@@ -11,7 +11,7 @@ edited`page
 The `pages/api` directory is mapped to `/api/`. Files in this directory are treatedas [API routes](https://ne
 This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://verc)
 To learn more about Next.js, take
-- [Next.js Documentation](https://nextjs.org/docs) - lea
+- [Next.js Documentation](https://nextjs.org/docs) - le
 - [Learn Next.js](https://nextjs.org/learn-pages-router) - an interact
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contrib
 
