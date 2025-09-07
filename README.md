@@ -10,7 +10,6 @@ You can start e
 edited`page
 The `pages/api` directory is mapped to `/api/`. Files in this directory are treatedas [API routes](https://nex
 This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://verc)
-
 To learn more about Next.js, take
 - [Next.js Documentation](https://nextjs.org/docs) - lea
 - [Learn Next.js](https://nextjs.org/learn-pages-router) - an interact
