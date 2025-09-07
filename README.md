@@ -5,7 +5,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 First, run the developm
 
 Open [http://localhost:3000](ht
-You can start editin
+You can start editi
 
 [API routes](https://nextjs.org/docs/pages/building-your-application/routng/ap-routes) 
 edited`pages/
