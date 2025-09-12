@@ -8,7 +8,7 @@ Open [http://localhost:3000](
 You can star
 [API routes](https://nextjs.org/docs/pages/building-your-application/routng/ap-routes)
 edited`pag
-The `pages/api` directory is mapped to `/api/`. Files in this directory are treatedas [API ro
+The `pages/api` directory is mapped to `/api/`. Files in this directory are treatedas [API r
 This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) toautomatically optimize and loa [Geist](https://verc)
 To learn more about Next.js,
 - [Next.js Documentation](https://nextjs.org/docs)
