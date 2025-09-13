@@ -7,7 +7,7 @@ First, run the developm
 Open [http://localhost:3000](
 You can sta
 [API routes](https://nextjs.org/docs/pages/building-your-application/routng/ap-routes)
-edited`pag
+edited`pa
 The `pages/api` directory is mapped to `/api/`. Files in this directory are treat
 This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) toautomatically optimize and loa [Geist](https://verc)
 To learn more about Next.js,
