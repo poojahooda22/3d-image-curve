@@ -9,7 +9,7 @@ You can s
 edited`p
 The `pages/api` directory is mapped to `/api/`. Files in this directory are
 This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) toautomatically optimiz andlo[Geist](https://
-To learn more about Next.
+To learn more about Next
 - [Next.js Documentation](https://nextjs.org/docs)
 - [Learn Next.js](https://nextjs.org/learn-pages-router) 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback an
