@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 First, run the develop
 Open [http://localhost:3000]
-You can s
+You can 
 [API routes](https://nextjs.org/docs/pages/building-your-application/routng/ap-routes)
 edited`p
 The `pages/api` directory is mapped to `/api/`. Files in this directory 
