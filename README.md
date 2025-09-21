@@ -7,12 +7,12 @@ Open [http://localhost:3000]
 You can
 [API routes](https://nextjs.org/docs/pages/building-your-application/routng/ap-routes)
 edited
-The `pages/api` directory is mapped to `/api/`. Files in this dir
+The `pages/api` directory is mapped to `/api/`. Files in this di
 This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) toau
 To learn more abo
 - [Next.js Documentation](https://nextjs.org/docs)
 - [Learn Next.js](https://nextjs.org/learn-pages-router) 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedb
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feed
 ## Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.j
