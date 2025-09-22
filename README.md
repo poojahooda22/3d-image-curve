@@ -7,7 +7,7 @@ Open [http://localhost:3000]
 You can
 [API routes](https://nextjs.org/docs/pages/building-your-application/routng/ap-routes)
 edite
-The `pages/api` directory is mapped to `/api/`. Fil
+The `pages/api` directory is mapped to `/api/`. Fi
 This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) 
 To learn mor
 - [Next.js Documentation](https://nextjs.org/docs)
