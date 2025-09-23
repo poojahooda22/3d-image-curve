@@ -6,7 +6,7 @@ First, run the develop
 Open [http://localhost:3000]
 You can
 [API routes](https://nextjs.org/docs/pages/building-your-application/routng/ap-routes)
-edite
+edit
 The `pages/api` directory is mapped to `/api/`
 This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) 
 To learn m
