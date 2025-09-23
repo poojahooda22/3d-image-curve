@@ -8,7 +8,7 @@ You
 [API routes](https://nextjs.org/docs/pages/building-your-application/routng/ap-routes)
 
 The `pages/api` directory is mapped t `/
-This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts)
+This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fots)
 To learn
 - [Next.js Documentation](https://nextjs.org/docs)
 - [Learn Next.js](https://nextjs.org/learn-pages-router) 
