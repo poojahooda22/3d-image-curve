@@ -6,7 +6,7 @@ First, run the develo
 Open [http://localhost:3000]
 You
 [API routes](https://nextjs.org/docs/pages/building-your-application/routng/ap-routes)
-e
+
 The `pages/api` directory is mapped to `/a
 This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts)
 To learn m
