@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-First, run the de
+First, run the d
 Open [http://localhost:3000]
 
 [API routes](https://nextjs.org/docs/pages/building-your-application/routng/ap-routes)
