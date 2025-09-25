@@ -7,7 +7,7 @@ Open [http://localhost:3000]
 
 [API routes](https://nextjs.org/docs/pages/building-your-application/routng/ap-routes)
 
-Th `pages/` 
+Th `pages` 
 This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fots)
 
 - [Next.js Documentation](https://nextjs.org/docs)
