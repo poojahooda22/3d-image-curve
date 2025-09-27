@@ -9,7 +9,6 @@ Open [http://localhost:3000
 
 Th `page` 
 This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fots)
-
 - [Next.js Documentation](https://nextjs.org/doc
 - [Learn Next.js](https://nextjs.org/learn-pages-rou
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) 
