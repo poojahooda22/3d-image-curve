@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started
-First, run the
+First, run th
 Open [http://localhost:300
 
 [API routes](https://nextjs.org/docs/pages/building-your-application/routng/ap-routes)
