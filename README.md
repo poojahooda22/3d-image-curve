@@ -6,7 +6,7 @@ Open [http://localhost:
 [API routes](https://nextjs.org/docs/pages/building-your-application/routng/ap-routes)
 Th `page` 
 This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fots)
-- [Next.js Documentation](https://ne
+- [Next.js Documentation](https://n
 - [Learn Next.js](https://nextjs.org/learn-
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) 
 ## Deploy on Ve
