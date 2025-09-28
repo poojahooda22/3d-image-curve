@@ -5,7 +5,6 @@ First, run
 Open [http://localhost:30
 
 [API routes](https://nextjs.org/docs/pages/building-your-application/routng/ap-routes)
-
 Th `page` 
 This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fots)
 - [Next.js Documentation](https://nex
