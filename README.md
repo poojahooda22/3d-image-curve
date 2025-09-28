@@ -8,7 +8,7 @@ Open [http://localhost:30
 
 Th `page` 
 This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fots)
-- [Next.js Documentation](https://nextj
+- [Next.js Documentation](https://next
 - [Learn Next.js](https://nextjs.org/learn-
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) 
 ## Deploy on Ve
