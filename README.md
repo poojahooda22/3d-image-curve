@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 First, run
 Open [http://localhos
 [API routes](https://nextjs.org/docs/pages/building-your-application/routng/ap-routes)
-Th `page` 
+Th `page`
 This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fots)
 - [Next.js Documentation](https:/
 - [Learn Next.js](https://nextjs.org/learn-
