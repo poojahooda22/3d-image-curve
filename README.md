@@ -6,7 +6,7 @@ Open [http://loca
 [API routes](https://nextjs.org/docs/pages/building-your-application/routng/ap-routes)
 Th `page`
 This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fots)
-- [Next.js Documentation](htt
+- [Next.js Documentation](ht
 - [Learn Next.js](https://nextjs.
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) 
 ## Deploy on V
