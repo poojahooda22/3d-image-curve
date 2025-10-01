@@ -6,7 +6,7 @@ Open [http://loc
 [API routes](https://nextjs.org/docs/pages/building-your-application/routng/ap-routes)
 Th `page`
 This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fots)
-- [Next.js Documen
+- [Next.js Docume
 - [Learn Next.js](https:/
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) 
 ## Dep
