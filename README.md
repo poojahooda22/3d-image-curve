@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 Fir
-Open [http:
+Open [http
 [API routes](https://nextjs.org/docs/pages/building-your-application/routng/ap-routes)
 Th `page`
 This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fots)
