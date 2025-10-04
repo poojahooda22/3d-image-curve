@@ -2,10 +2,10 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 Fi
-Open [http
+Open [htt
 [API routes](https://nextjs.org/docs/pages/building-your-application/routng/ap-routes)
 Th`
-This project uses [`next/font`](https://nextjs.org/docs/pages/building-your
+This project uses [`next/font`](https://nextjs.org/docs/pages/building-you
 
 - [Learn Next.js]
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) 
