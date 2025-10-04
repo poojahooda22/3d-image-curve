@@ -5,7 +5,7 @@ Fi
 Open [http
 [API routes](https://nextjs.org/docs/pages/building-your-application/routng/ap-routes)
 Th `
-This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/opt
+This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/op
 
 - [Learn Next.js]
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) 
