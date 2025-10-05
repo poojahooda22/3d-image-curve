@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 Fi
 Open [htt
 [API routes](https://nextjs.org/docs/pages/building-your-application/routng/ap-routes)
-Th
+T
 This project uses [`next/font`](https://nextjs.org/docs/pa
 - [Learn Next.j
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) 
