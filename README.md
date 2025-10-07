@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
-## Getting Started
+## Getting Starte
 
 Open [ht
 [API routes](https://nextjs.org/docs/pages/building-your-application/routng/ap-routes)
