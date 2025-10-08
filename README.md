@@ -6,6 +6,6 @@ Open [ht
 
 This project uses [`next/fon`
 You can check out [the Next.js GitHub repository](https://github.com/v
-#
+
 The easiest way to deploy your Next.js app is to  the [ercel Platform](https://vercel.com/new?utm_meium=default-templat&filter=next.js&ut_ource=create-next-app&utm_campaign=create-next-app-readme) from the creators 
 Check out  [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deployin) 
