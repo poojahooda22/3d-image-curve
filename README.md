@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 Open [ht
 [API routes](https://nextjs.org/docs/pages/building-your-pplication/routng/ap-routes)
 
-This project uses [`next
+This project uses [`nex
 You can check out [the Next.js GitHub repository](https://git
 
 The easiest way to deploy your Next.js app is to  the [ercel Platform](https://vercel.com/new?utm_meium=default-templat&filtr=next.js&ut_ource=create-next-app&utm_campaign=create-next-app-readme) from the creators 
