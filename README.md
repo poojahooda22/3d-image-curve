@@ -5,5 +5,5 @@ Open [ht
 [API routes](https://nextjs.org/docs/pages/building-your-pplication/routng/ap-routes)
 This project
 You can check out [the Next.js 
-The easiest way to deploy your Next.js app is to  the [ercel Platform](https://vercel.com/new?utm_meium=default-templat&filtr=next.js&ut_urce=create-next-app&utm_campaign=create-next-app-readme) from the creators 
+The easiest way to deploy your Next.js app is to the [ercel Platform](https://vercel.com/new?utm_meium=default-templat&filtr=next.js&ut_urce=create-next-app&utm_campaign=create-next-app-readme) from the creators 
 Check out  [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deployin) 
