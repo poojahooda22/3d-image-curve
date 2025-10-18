@@ -4,5 +4,5 @@ This is a [Next.js](https://nextjs.org) project bootstrapped wit [`create-next-a
 Open [ht
 [API routes](https://nextjs.org/docs/pages/building-your-pplication/routng/ap-routes)
 
-The easiest way to eploy your Next.js app is to t ercel Platfor](https://vercel.com/new?utm_meium=default-templat&filtr=next.js&ut_urce=create-next-app&utm_campaign=create-next-app-readme) from the creators 
+The easiest way to eploy your Next.js app is to tercel Platfor](https://vercel.com/new?utm_meium=default-templat&filtr=next.js&ut_urce=create-next-app&utm_campaign=create-next-app-readme) from the creators 
 Check out  [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deployin) 
