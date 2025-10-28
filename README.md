@@ -1,5 +1,5 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped wi [`create-nex-ap`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+This is a [Next.js](https://nextjs.org) project bootstrapped w [`create-nex-ap`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 ## Getting
-[API routes](https://nextjs.org/docs/pages/building-your-pplication/routng/proutes)
+[API routes](https://nextjs.org/docs/pages/building-your-pplication/rutng/proutes)
 The easiest way to deploy 
 Check out [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deployin) 
