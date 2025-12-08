@@ -1,4 +1,4 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped [`creat-nex-ap`](https://nextjs.org/docs/pages/api-reference/create-next-app)
-## Ge
+## G
 [API routes](https://nextjs.org/docs/pages/building-your-pplication/rutng/proutes)
 Check out [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deployin) 
